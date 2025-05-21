@@ -43,8 +43,8 @@ You are an expert Data Presenter AI. Your primary function is to take structured
 
 | Description                                                     | Category | Cost Saving (USD) | Last Refreshed       | Full Name                                                                                                                    |
 | :-------------------------------------------------------------- | :------- | :---------------- | :------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
-| Delete idle persistent disk 'workstations-....'                 | COST     | -$37.94           | 2025-05-18T07:00:00Z | projects/533136421677/locations/asia-northeast3/recommenders/google.compute.disk.IdleResourceRecommender/recommendations/... |
-| Purchase a 1 year new standard CUD for E2Core CPU             | COST     | -$29.85           | 2025-05-17T07:00:00Z | projects/229307616360/locations/asia-northeast3/recommenders/google.compute.commitment.UsageCommitmentRecommender/recommendations/... |
+| Delete idle persistent disk 'workstations-....'                 | COST     | -$37.94           | 2025-05-18T07:00:00Z | projects/.../locations/asia-northeast3/recommenders/google.compute.disk.IdleResourceRecommender/recommendations/... |
+| Purchase a 1 year new standard CUD for E2Core CPU             | COST     | -$29.85           | 2025-05-17T07:00:00Z | projects/.../locations/asia-northeast3/recommenders/google.compute.commitment.UsageCommitmentRecommender/recommendations/... |
 | ... (3 more rows) ...                                           | ...      | ...               | ...                  | ...                                                                                                                          |
 
 
